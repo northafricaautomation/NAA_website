@@ -1,0 +1,168 @@
+{
+  "translation": {
+    "nav": {
+      "home": "Accueil",
+      "services": "Services",
+      "about": "À propos de nous",
+      "careers": "Carrières",
+      "contact": "Contact",
+      "login": "Se connecter",
+      "register": "S'inscrire"
+    },
+    "home": {
+      "hero": {
+        "title": "Innover l'avenir de l'automatisation en Afrique du Nord",
+        "subtitle": "Favoriser l'efficacité et la croissance grâce à la robotique avancée, à l'IA et aux solutions industrielles intelligentes.",
+        "cta": "Découvrir nos solutions"
+      },
+      "homeServicesSection": {
+        "title": "Notre expertise principale",
+        "viewAll": "Voir tous les services"
+      },
+      "about": {
+        "title": "Donner du pouvoir aux industries avec précision et innovation",
+        "paragraph1": "North Africa Automation est un fournisseur de premier plan de solutions d'automatisation industrielle de pointe, dédié à la transformation des entreprises dans toute la région.",
+        "paragraph2": "Nous sommes spécialisés dans la conception, la mise en œuvre et la maintenance de systèmes intelligents qui améliorent la productivité, optimisent les opérations et favorisent une croissance durable.",
+        "learnMore": "En savoir plus sur nous"
+      },
+      "cta": {
+        "title": "Prêt à façonner l'avenir avec nous ?",
+        "subtitle": "Rejoignez une équipe de visionnaires et d'innovateurs repoussant les limites de l'automatisation.",
+        "button": "Voir les postes ouverts"
+      }
+    },
+    "services": {
+      "item1": "Conception et intégration de systèmes avancés",
+      "desc1": "Conception de systèmes d'automatisation sur mesure adaptés à vos besoins opérationnels uniques.",
+      "item2": "Mise en œuvre de robotique intelligente",
+      "desc2": "Intégration transparente de solutions robotiques pour stimuler la productivité et la précision dans toutes les industries.",
+      "item3": "Développement et optimisation PLC/SCADA",
+      "desc3": "Développement de systèmes de contrôle robustes pour une automatisation et une surveillance des processus fiables et efficaces.",
+      "item4": "Analyse de données et aperçus prédictifs",
+      "desc4": "Transformation des données opérationnelles complexes en informations exploitables pour une prise de décision éclairée et une optimisation.",
+      "item5": "Solutions IdO industriel et de connectivité",
+      "desc5": "Connecter vos machines et processus pour une surveillance en temps réel, un contrôle à distance et une visibilité opérationnelle améliorée.",
+      "item6": "Maintenance préventive et prédictive",
+      "desc6": "Mise en œuvre de solutions intelligentes pour prévoir et prévenir les pannes d'équipement, minimisant ainsi les temps d'arrêt et les coûts de maintenance.",
+      "aiMlTitle": "Intégration de l'IA et de l'apprentissage automatique",
+      "aiMlDesc": "Intégration de modèles d'intelligence artificielle et d'apprentissage automatique pour une automatisation plus intelligente et une prise de décision basée sur les données."
+    },
+    "servicesPage": {
+      "title": "Services d'automatisation complets",
+      "contactCtaTitle": "Prêt à discuter de votre projet ?",
+      "contactCtaSubtitle": "Nos experts sont là pour vous aider à trouver la solution d'automatisation parfaite pour votre entreprise.",
+      "contactCtaButton": "Contactez-nous"
+    },
+    "contactPage": {
+      "title": "Connectez-vous avec North Africa Automation",
+      "subtitle": "Nous sommes là pour répondre à vos questions et vous aider avec vos besoins en automatisation. Contactez-nous !",
+      "infoTitle": "Informations de contact",
+      "address": "Adresse",
+      "phone": "Téléphone",
+      "email": "Courriel",
+      "socialsTitle": "Suivez-nous",
+      "formTitle": "Envoyez-nous un message",
+      "namePlaceholder": "Votre nom complet",
+      "emailPlaceholder": "Votre adresse e-mail",
+      "subjectPlaceholder": "Sujet (Facultatif)",
+      "messagePlaceholder": "Votre message",
+      "sendButton": "Envoyer le message"
+    },
+    "footer": {
+      "tagline": "Donner du pouvoir aux industries avec des solutions d'automatisation de pointe.",
+      "quickLinks": "Liens rapides",
+      "ourServices": "Nos services",
+      "connectWithUs": "Connectez-vous avec nous",
+      "allRightsReserved": "Tous droits réservés.",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfService": "Conditions d'utilisation"
+    },
+    "aboutPage": {
+      "title": "À propos de North Africa Automation",
+      "missionTitle": "Notre Mission & Vision",
+      "missionParagraph": "Notre mission est de fournir des solutions d'automatisation de pointe qui optimisent les processus industriels et stimulent l'efficacité dans toute l'Afrique du Nord. Nous sommes engagés envers l'excellence et l'innovation.",
+      "visionParagraph": "Nous aspirons à être le leader de l'automatisation industrielle, favorisant le progrès technologique et établissant de nouvelles normes de fiabilité et de performance.",
+      "valuesTitle": "Nos Valeurs Fondamentales",
+      "value1Title": "Innovation",
+      "value1Desc": "Nous repoussons constamment les limites de la technologie pour offrir des solutions novatrices.",
+      "value2Title": "Fiabilité",
+      "value2Desc": "Nous garantissons des performances constantes et une excellence opérationnelle dans tous nos systèmes.",
+      "value3Title": "Partenariat",
+      "value3Desc": "Nous construisons des relations solides et à long terme avec nos clients basées sur la confiance mutuelle.",
+      "historyCtaTitle": "Prêt à automatiser votre succès ?",
+      "historyCtaSubtitle": "Laissez-nous vous aider à transformer vos opérations et à atteindre de nouveaux niveaux d'efficacité.",
+      "contactUsButton": "Contactez notre équipe"
+    },
+    "careersPage": {
+      "hero": {
+        "title": "Carrières chez North Africa Automation",
+        "subtitle": "Rejoignez une équipe dynamique dédiée à la révolution de l'automatisation industrielle.",
+        "cta": "Voir les postes ouverts"
+      },
+      "culture": {
+        "title": "Notre Culture et Avantages",
+        "benefit1Title": "Innovation et Apprentissage",
+        "benefit1Desc": "Un environnement qui favorise la croissance continue et l'apprentissage de technologies de pointe.",
+        "benefit2Title": "Développement Professionnel",
+        "benefit2Desc": "Des opportunités de formation et d'avancement pour développer votre carrière.",
+        "benefit3Title": "Impact Global",
+        "benefit3Desc": "Contribuez à des projets significatifs qui façonnent l'avenir de l'industrie."
+      },
+      "openingsTitle": "Postes actuellement ouverts",
+      "noOpenings": "Aucun poste actuellement disponible ? Envoyez-nous votre CV.",
+      "contactCta": "Contactez-nous",
+      "job1": {
+        "title": "Ingénieur en automatisation",
+        "location": "Casablanca, Maroc",
+        "type": "Temps plein",
+        "description": "Responsable de la conception, de la mise en œuvre et de la maintenance des systèmes d'automatisation industrielle."
+      },
+      "job2": {
+        "title": "Développeur Logiciel (IA/ML)",
+        "location": "Tunis, Tunisie",
+        "type": "Temps plein",
+        "description": "Développement de solutions logicielles avancées et de modèles d'apprentissage automatique pour l'automatisation."
+      },
+      "job3": {
+        "title": "Technicien de maintenance robotique",
+        "location": "Le Caire, Égypte",
+        "type": "Temps plein",
+        "description": "Fournir un support technique et une maintenance préventive pour nos solutions robotiques."
+      }
+    },
+    "auth": {
+      "emailLabel": "Adresse e-mail",
+      "emailPlaceholder": "Entrez votre adresse e-mail",
+      "passwordLabel": "Mot de passe",
+      "passwordPlaceholder": "Entrez votre mot de passe",
+      "rememberMe": "Se souvenir de moi",
+      "forgotPassword": "Mot de passe oublié?",
+      "login": {
+        "title": "Bienvenue de retour",
+        "subtitle": "Veuillez vous connecter à votre compte.",
+        "button": "Se connecter",
+        "link": "Se connecter"
+      },
+      "register": {
+        "title": "Créer un compte",
+        "subtitle": "Inscrivez-vous pour accéder à nos services.",
+        "button": "S'inscrire",
+        "link": "S'inscrire"
+      },
+      "nameLabel": "Nom complet",
+      "namePlaceholder": "Entrez votre nom complet",
+      "confirmPasswordLabel": "Confirmer le mot de passe",
+      "confirmPasswordPlaceholder": "Confirmez votre mot de passe",
+      "noAccount": "Vous n'avez pas de compte ?",
+      "haveAccount": "Vous avez déjà un compte ?"
+    },
+    "aiMlPage": {
+      "featuresTitle": "Fonctionnalités Clés de Nos Solutions IA/ML",
+      "feature1": "Analyse Prédictive pour l'Efficacité Opérationnelle",
+      "feature2": "Systèmes de Contrôle Qualité Automatisés",
+      "feature3": "Optimisation Intelligente des Processus",
+      "feature4": "Vision par Machine pour une Précision Améliorée",
+      "ctaButton": "Discutez de votre projet IA/ML"
+    }
+  }
+}

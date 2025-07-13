@@ -1,0 +1,168 @@
+{
+  "translation": {
+    "nav": {
+      "home": "Home",
+      "services": "Services",
+      "about": "About Us",
+      "careers": "Careers",
+      "contact": "Contact",
+      "login": "Login",
+      "register": "Register"
+    },
+    "home": {
+      "hero": {
+        "title": "Innovating the Future of Automation in North Africa",
+        "subtitle": "Driving efficiency and growth through advanced robotics, AI, and smart industrial solutions.",
+        "cta": "Explore Our Solutions"
+      },
+      "homeServicesSection": {
+        "title": "Our Core Expertise",
+        "viewAll": "View All Services"
+      },
+      "about": {
+        "title": "Empowering Industries with Precision and Innovation",
+        "paragraph1": "North Africa Automation is a leading provider of cutting-edge industrial automation solutions, dedicated to transforming businesses across the region.",
+        "paragraph2": "We specialize in designing, implementing, and maintaining intelligent systems that enhance productivity, optimize operations, and drive sustainable growth.",
+        "learnMore": "Learn More About Us"
+      },
+      "cta": {
+        "title": "Ready to Shape the Future with Us?",
+        "subtitle": "Join a team of visionaries and innovators pushing the boundaries of automation.",
+        "button": "View Open Positions"
+      }
+    },
+    "services": {
+      "item1": "Advanced System Design & Integration",
+      "desc1": "Crafting bespoke automation systems tailored to your unique operational needs.",
+      "item2": "Intelligent Robotics Implementation",
+      "desc2": "Seamlessly integrating robotic solutions to boost productivity and precision across industries.",
+      "item3": "PLC/SCADA Development & Optimization",
+      "desc3": "Developing robust control systems for reliable and efficient process automation and monitoring.",
+      "item4": "Data Analytics & Predictive Insights",
+      "desc4": "Transforming complex operational data into actionable insights for informed decision-making and optimization.",
+      "item5": "Industrial IoT & Connectivity Solutions",
+      "desc5": "Connecting your machines and processes for real-time monitoring, remote control, and enhanced operational visibility.",
+      "item6": "Preventive & Predictive Maintenance",
+      "desc6": "Implementing smart solutions to predict and prevent equipment failures, minimizing downtime and maintenance costs.",
+      "aiMlTitle": "AI & Machine Learning Embedding",
+      "aiMlDesc": "Integrating artificial intelligence and machine learning models for smarter automation and data-driven decision-making."
+    },
+    "servicesPage": {
+      "title": "Comprehensive Automation Services",
+      "contactCtaTitle": "Ready to Discuss Your Project?",
+      "contactCtaSubtitle": "Our experts are here to help you find the perfect automation solution for your business.",
+      "contactCtaButton": "Get in Touch"
+    },
+    "contactPage": {
+      "title": "Connect With North Africa Automation",
+      "subtitle": "We're here to answer your questions and help you with your automation needs. Reach out to us!",
+      "infoTitle": "Contact Information",
+      "address": "Address",
+      "phone": "Phone",
+      "email": "Email",
+      "socialsTitle": "Follow Us",
+      "formTitle": "Send Us a Message",
+      "namePlaceholder": "Your Full Name",
+      "emailPlaceholder": "Your Email Address",
+      "subjectPlaceholder": "Subject (Optional)",
+      "messagePlaceholder": "Your Message",
+      "sendButton": "Send Message"
+    },
+    "footer": {
+      "tagline": "Empowering industries with cutting-edge automation solutions.",
+      "quickLinks": "Quick Links",
+      "ourServices": "Our Services",
+      "connectWithUs": "Connect With Us",
+      "allRightsReserved": "All Rights Reserved.",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfService": "Terms of Service"
+    },
+    "aboutPage": {
+      "title": "About North Africa Automation",
+      "missionTitle": "Our Mission & Vision",
+      "missionParagraph": "Our mission is to provide cutting-edge automation solutions that optimize industrial processes and drive efficiency across North Africa. We are committed to excellence and innovation.",
+      "visionParagraph": "We aspire to be the leading force in industrial automation, fostering technological advancement and setting new benchmarks for reliability and performance.",
+      "valuesTitle": "Our Core Values",
+      "value1Title": "Innovation",
+      "value1Desc": "We constantly push the boundaries of technology to deliver groundbreaking solutions.",
+      "value2Title": "Reliability",
+      "value2Desc": "We ensure consistent performance and operational excellence in all our systems.",
+      "value3Title": "Partnership",
+      "value3Desc": "We build strong, long-term relationships with our clients based on mutual trust.",
+      "historyCtaTitle": "Ready to Automate Your Success?",
+      "historyCtaSubtitle": "Let us help you transform your operations and achieve new levels of efficiency.",
+      "contactUsButton": "Contact Our Team"
+    },
+    "careersPage": {
+      "hero": {
+        "title": "Careers at North Africa Automation",
+        "subtitle": "Join a dynamic team dedicated to revolutionizing industrial automation.",
+        "cta": "View Open Positions"
+      },
+      "culture": {
+        "title": "Our Culture and Benefits",
+        "benefit1Title": "Innovation & Learning",
+        "benefit1Desc": "An environment that fosters continuous growth and learning of cutting-edge technologies.",
+        "benefit2Title": "Professional Development",
+        "benefit2Desc": "Opportunities for training and advancement to grow your career.",
+        "benefit3Title": "Global Impact",
+        "benefit3Desc": "Contribute to meaningful projects that shape the future of industry."
+      },
+      "openingsTitle": "Currently Open Positions",
+      "noOpenings": "No positions currently available? Send us your resume.",
+      "contactCta": "Contact Us",
+      "job1": {
+        "title": "Automation Engineer",
+        "location": "Casablanca, Morocco",
+        "type": "Full-time",
+        "description": "Responsible for designing, implementing, and maintaining industrial automation systems."
+      },
+      "job2": {
+        "title": "Software Developer (AI/ML)",
+        "location": "Tunis, Tunisia",
+        "type": "Full-time",
+        "description": "Developing advanced software solutions and machine learning models for automation."
+      },
+      "job3": {
+        "title": "Robotics Maintenance Technician",
+        "location": "Cairo, Egypt",
+        "type": "Full-time",
+        "description": "Providing technical support and preventive maintenance for our robotic solutions."
+      }
+    },
+    "auth": {
+      "emailLabel": "Email Address",
+      "emailPlaceholder": "Enter your email address",
+      "passwordLabel": "Password",
+      "passwordPlaceholder": "Enter your password",
+      "rememberMe": "Remember me",
+      "forgotPassword": "Forgot password?",
+      "login": {
+        "title": "Welcome Back",
+        "subtitle": "Please log in to your account.",
+        "button": "Log In",
+        "link": "Log In"
+      },
+      "register": {
+        "title": "Create an Account",
+        "subtitle": "Sign up to access our services.",
+        "button": "Register",
+        "link": "Register"
+      },
+      "nameLabel": "Full Name",
+      "namePlaceholder": "Enter your full name",
+      "confirmPasswordLabel": "Confirm Password",
+      "confirmPasswordPlaceholder": "Confirm your password",
+      "noAccount": "Don't have an account?",
+      "haveAccount": "Already have an account?"
+    },
+    "aiMlPage": {
+      "featuresTitle": "Key Features of Our AI/ML Solutions",
+      "feature1": "Predictive Analytics for Operational Efficiency",
+      "feature2": "Automated Quality Control Systems",
+      "feature3": "Intelligent Process Optimization",
+      "feature4": "Machine Vision for Enhanced Precision",
+      "ctaButton": "Discuss Your AI/ML Project"
+    }
+  }
+}
