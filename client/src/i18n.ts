@@ -92,7 +92,7 @@ const resources = {
         "addressLabel": "Address",
         "addressValue": "Akbou, Bejaia, Algeria",
         "phoneLabel": "Phone",
-        "phoneValue": "+1 (234) 567-890",
+        "phoneValue": "+213 (553) 431-748",
         "emailLabel": "Email",
         "emailAddress": "benmahrezbelaid@gmail.com",
         "socialsTitle": "Follow Us on Social Media",
@@ -183,13 +183,13 @@ const resources = {
         },
         "job2": {
           "title": "Future Software Developer (AI/ML)",
-          "location": "Various Locations, North Africa",
+          "location": "Algeria, North Africa",
           "type": "Full-time",
           "description": "Future roles will focus on developing advanced software solutions and machine learning models for automation, predictive analytics, and computer vision. Strong programming skills in Python/TensorFlow/PyTorch will be required. Experience with cloud platforms (AWS, Azure, GCP) will be a plus."
         },
         "job3": {
           "title": "Future Robotics Maintenance Technician",
-          "location": "Various Locations, North Africa",
+          "location": "Algeria, North Africa",
           "type": "Full-time",
           "description": "Future roles will involve providing technical support, troubleshooting, and preventive maintenance for our robotic solutions on client sites. Will require hands-on experience with industrial robots and strong problem-solving skills."
         },
@@ -372,7 +372,7 @@ const resources = {
       },
       "aboutPage": {
         "title": "À propos de North Africa Automation",
-        "subtitle": "Pionnier de l'avenir de l'automatisation industrielle et de la transformation numérique en Afrique du Nord.",
+        "subtitle": "Pionnier de l'avenir de l'automatisation industrielle intelligente en Afrique du Nord.",
         "missionTitle": "Notre Mission & Vision",
         "missionParagraph": "Notre mission est de fournir des solutions d'automatisation de pointe qui optimisent les processus industriels, améliorent l'efficacité et favorisent une croissance durable en Afrique du Nord. Nous nous engageons à l'excellence, à l'innovation et à l'établissement de partenariats à long terme avec nos clients, menant la charge dans la fabrication intelligente et la transformation numérique.",
         "visionParagraph": "Nous aspirons à être la force motrice de l'automatisation industrielle, reconnue pour nos avancées technologiques, notre fiabilité inébranlable et notre impact transformateur sur les entreprises de la région et au-delà, établissant de nouvelles références pour l'optimisation des processus et l'amélioration de la production.",
@@ -426,30 +426,29 @@ const resources = {
           "benefit5Title": "Rémunération compétitive",
           "benefit5Desc": "Des salaires attractifs, des primes de performance et des avantages sociaux complets."
         },
-        "openingsTitle": "Postes actuellement ouverts",
-        "noOpenings": "Aucun poste actuellement disponible ? Nous sommes toujours à la recherche de personnes talentueuses. Envoyez-nous votre CV et dites-nous comment vous pouvez contribuer à notre mission.",
+        "openingsTitle": "Fturs Postes ",
+        "noOpenings": "Aucun poste actuellement disponible, nous aurons besoin de personnes talentueuses. Envoyez-nous votre CV et dites-nous comment vous pouvez contribuer à notre mission.",
         "contactCta": "Envoyer votre CV",
         "job1": {
           "title": "Ingénieur en automatisation",
-          "location": "Casablanca, Maroc",
+          "location": "Algérie",
           "type": "Temps plein",
           "description": "Responsable de la conception, de la mise en œuvre et de la maintenance des systèmes d'automatisation industrielle. Nécessite une solide connaissance des PLC/SCADA, de la robotique et des réseaux industriels. L'expérience avec Python ou C++ est un plus."
         },
         "job2": {
           "title": "Développeur Logiciel (IA/ML)",
-          "location": "Tunis, Tunisie",
+          "location": "Algérie",
           "type": "Full-time",
           "description": "Développement de solutions logicielles avancées et de modèles d'apprentissage automatique pour l'automatisation, l'analyse prédictive et la vision par ordinateur. Solides compétences en programmation Python/TensorFlow/PyTorch requises. L'expérience avec les plateformes cloud (AWS, Azure, GCP) est un plus."
         },
         "job3": {
           "title": "Technicien de maintenance robotique",
-          "location": "Le Caire, Égypte",
+          "location": "Algérie",
           "type": "Full-time",
-          "description": "Fournir un support technique، un dépannage et une maintenance préventive pour nos solutions robotiques sur les sites clients. يتطلب خبرة عملية في الروبوتات الصناعية ومهارات قوية في حل المشكلات."
-        },
+          "description": "Fournir un support technique، un dépannage et une maintenance préventive pour nos solutions robotiques sur les sites clients. "},
         "job4": {
           "title": "Architecte de solutions IoT",
-          "location": "الرباط، المغرب",
+          "location": "Algérie",
           "type": "Full-time",
           "description": "Conception et mise en œuvre d'architectures IoT industrielles évolutives, y compris l'intégration de capteurs, l'ingestion de données et la connectivité cloud. Solide compréhension des protocoles IoT et des meilleures pratiques de sécurité."
         }
@@ -530,7 +529,7 @@ const resources = {
       },
       "services": {
         "item1": "تصميم وتكامل أنظمة الأتمتة المتقدمة",
-        "desc1": "صياغة أنظمة أتمتة مصممة خصيصًا لتلبية احتياجاتك التشغيلية الفريدة، من التصور إلى النشر الكامل. نحن نضمن التكامل السلس مع البنية التحتية الحالية للتصنيع الذكي.",
+        "desc1": "صياغة أنظمة أتمتة مصممة خصيصًا لتلبية احتياجاتك التشغيلية الفريدة، من التصور إلى النشر الكامل. نحن نضمن التكامل السلس مع البنية التحتية الحالية للتصنيع الذكي  ",
         "item2": "تطبيق الروبوتات الذكية",
         "desc2": "دمج حلول الروبوتات المتقدمة بسلاسة لزيادة الإنتاجية والدقة والسلامة عبر مختلف القطاعات الصناعية. تقوم روبوتاتنا بأداء مهام معقدة بدقة لا مثيل لها، مما يعزز الإنتاج.",
         "item3": "تطوير وتحسين PLC/SCADA وتحسين العمليات",
@@ -585,7 +584,7 @@ const resources = {
         "addressLabel": "العنوان",
         "addressValue": "أقبو، بجاية، الجزائر",
         "phoneLabel": "الهاتف",
-        "phoneValue": "+1 (234) 567-890",
+        "phoneValue": "+213 (553) 431-748",
         "emailLabel": "البريد الإلكتروني",
         "emailAddress": "benmahrezbelaid@gmail.com",
         "socialsTitle": "تابعونا على وسائل التواصل الاجتماعي",
@@ -670,26 +669,26 @@ const resources = {
         "contactCta": "أرسل سيرتك الذاتية",
         "job1": {
           "title": "مهندس أتمتة",
-          "location": "مواقع مختلفة، شمال أفريقيا",
-          "type": "دوام كامل",
+          "location": "الجزائر",
+          "type": "دائم",
           "description": "ستنشأ فرص لتصميم وتطبيق وصيانة أنظمة الأتمتة الصناعية. ستتطلب الأدوار المستقبلية معرفة قوية بـ PLC/SCADA، والروبوتات، والشبكات الصناعية. ستكون الخبرة في Python أو C++ ميزة إضافية."
         },
         "job2": {
           "title": "مطور برامج (ذكاء اصطناعي/تعلم آلي)",
-          "location": "مواقع مختلفة، شمال أفريقيا",
-          "type": "دوام كامل",
+          "location": "الجزائر",
+          "type": "دائم",
           "description": "ستركز الأدوار المستقبلية على تطوير حلول برمجية متقدمة ونماذج تعلم آلي للأتمتة، والتحليلات التنبؤية، ورؤية الكمبيوتر. سيتطلب مهارات برمجة قوية في Python/TensorFlow/PyTorch. ستكون الخبرة في المنصات السحابية (AWS، Azure، GCP) ميزة إضافية."
         },
         "job3": {
           "title": "فني صيانة روبوتات ",
-          "location": "مواقع مختلفة، شمال أفريقيا",
-          "type": "دوام كامل",
+          "location": "الجزائر",
+          "type": "دائم",
           "description": "ستتضمن الأدوار المستقبلية تقديم الدعم الفني، واستكشاف الأخطاء وإصلاحها، والصيانة الوقائية لحلول الروبوتات لدينا في مواقع العملاء. سيتطلب خبرة عملية في الروبوتات الصناعية ومهارات قوية في حل المشكلات."
         },
         "job4": {
           "title": "مهندس حلول إنترنت الأشياء",
-          "location": "مواقع مختلفة، شمال أفريقيا",
-          "type": "دوام كامل",
+          "location": "الجزائر",
+          "type": "دائم",
           "description": "ستتضمن الأدوار المستقبلية تصميم وتطبيق معماريات إنترنت الأشياء الصناعية القابلة للتطوير، بما في ذلك دمج أجهزة الاستشعار، واستيعاب البيانات، وإنشاء لوحات معلومات مخصصة. سيكون الفهم القوي لبروتوكولات إنترنت الأشياء وأفضل ممارسات الأمان ضروريًا."
         }
       },
